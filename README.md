@@ -10,7 +10,7 @@ Developing a trading bot and empowered it by AI in the future.
 ## ⚙️ Installation
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/luxtrade-ai.git
+git clone https://github.com/yourusername/Python-Trading-Bot.git
 
 pip install -r requirements.txt
 
